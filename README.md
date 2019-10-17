@@ -7,19 +7,19 @@ Using records of employees of a corporation from the 1980s and 1990s in the form
 2. Data Engineering: Table schema for each of the six CSV filesis created by specifying data types, primary keys, foreign keys, and other constraints in Postgresql.Each CSV file is imported into the corresponding SQL table.
 
 3. Data Analysis:
-1. Listing the employee number, last name, first name, gender, and salary.
+      Listing the employee number, last name, first name, gender, and salary.
 
-2. Listing employees who were hired in 1986.
+      Listing employees who were hired in 1986.
 
-3. Listing the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
+      Listing the manager of each department with the following information: department number, department name, the manager's employee         number, last name, first name, and start and end employment dates.
 
-4. Listing the department of each employee with the following information: employee number, last name, first name, and department name.
+      Listing the department of each employee with the following information: employee number, last name, first name, and department name.
 
-5. Listing all employees whose first name is "Hercules" and last names begin with "B."
+      Listing all employees whose first name is "Hercules" and last names begin with "B."
 
-6. Listing all employees in the Sales department, including their employee number, last name, first name, and department name.
+      Listing all employees in the Sales department, including their employee number, last name, first name, and department name.
 
-7. Listing all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+      Listing all employees in the Sales and Development departments, including their employee number, last name, first name, and               department name.
 
-8. In descending order, listing the frequency count of employee last names, i.e., how many employees share each last name.
+      In descending order, listing the frequency count of employee last names, i.e., how many employees share each last name.
 
