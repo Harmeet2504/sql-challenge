@@ -3,7 +3,7 @@ Using records of employees of a corporation from the 1980s and 1990s in the form
 
 
 1. Data Modeling:The CSVs are inspected to sketch out an ERD of the tables using tool at (http://www.quickdatabasediagrams.com). An ERD diagram is attached as a result.
-            [](https://github.com/Harmeet2504/sql-challenge/blob/master/Data-modeling-ERD.png)
+            [!](https://github.com/Harmeet2504/sql-challenge/blob/master/Data-modeling-ERD.png)
 
 2. Data Engineering: Table schema for each of the six CSV filesis created by specifying data types, primary keys, foreign keys, and other constraints in Postgresql.Each CSV file is imported into the corresponding SQL table.
 
