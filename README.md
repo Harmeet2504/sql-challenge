@@ -1,5 +1,5 @@
 # SQL
-**Summary: Creating a PostgreSQL database using records of employees of a corporation from the 1980s and 1990s in the form of six CSV files, and use SQL queries to perform data analysis.
+**Summary:** Creating a PostgreSQL database using records of employees of a corporation from the 1980s and 1990s in the form of six CSV files, and use SQL queries to perform data analysis.
 
 The following was performed: 
 
