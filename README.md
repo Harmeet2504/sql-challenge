@@ -1,7 +1,8 @@
-# SQL-challenge
-Summary: Creating a PostgreSQL database using records of employees of a corporation from the 1980s and 1990s in the form of six CSV files, and use SQL queries to perform data analysis.
+# SQL
+**Summary: Creating a PostgreSQL database using records of employees of a corporation from the 1980s and 1990s in the form of six CSV files, and use SQL queries to perform data analysis.
 
 The following was performed: 
+
 **1. Data Modeling:** The CSVs are inspected to sketch out an ERD of the tables using tool at (http://www.quickdatabasediagrams.com). An ERD diagram is attached as a result.
             ![](https://github.com/Harmeet2504/sql-challenge/blob/master/Data-modeling-ERD.png)
 
